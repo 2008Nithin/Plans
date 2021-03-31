@@ -21,18 +21,18 @@
 # Strapi 
 
 # Jam stack 
-## Markdown, Static Sites / Assets, Serverless, Headless CMS for Content, hosting with service (netlify)
+### Markdown, Static Sites / Assets, Serverless, Headless CMS for Content, hosting with service (netlify)
 
-# Node 
+# Node / Express
 
 # PostgresSQL 
 
 # GrapQL
 
-# Wordpress 
+# Wordpress (html editor)
 
 # Deployement, Servers and Dev Ops
-## Hosting Platforms (Heroku, Digital Sea), Web Servers (NGINX), Conatiners (Docker / Kubernetes), Cloudinary, Jenkins 
+### Hosting Platforms (Heroku, Digital Sea), Web Servers (NGINX), Conatiners (Docker / Kubernetes), Cloudinary, Jenkins 
 
 
 # Mobile Dev
@@ -40,7 +40,7 @@
 # Flutter / Dart or React Native
 
 # PWA 
-## All screen sizes, fast and engaing, https, offline content
+### All screen sizes, fast and engaing, https, offline content
 
 # Electron
 
@@ -49,5 +49,5 @@
 # Algorithms
 
 # Data Structures
-## Array, Linked list, Quene, Stack, Tree, Graph, Hash Table
+### Array, Linked list, Quene, Stack, Tree, Graph, Hash Table
 
