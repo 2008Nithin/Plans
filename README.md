@@ -37,7 +37,7 @@
 
 # Mobile Dev
 
-# Flutter / Dart or React Native
+# Flutter / Dart or React Native  
 
 # PWA 
 ### All screen sizes, fast and engaing, https, offline content
