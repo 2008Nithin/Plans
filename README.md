@@ -56,3 +56,15 @@
 # Three
 
 # Vim
+
+# Must Have
+1. React
+2. Typescript
+3. GraphQL
+4. Apollo
+5. Node.js
+6. PostgreSQL
+7. TypeORM/MikroORM
+8. Redis
+9. Next.js
+10. TypeGraphQL
