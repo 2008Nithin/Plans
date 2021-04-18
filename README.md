@@ -13,6 +13,8 @@
 # Typescript
 
 # Testing
+1. Mocha
+2. Jest
 
 # Next
 
